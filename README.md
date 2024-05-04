@@ -1,19 +1,25 @@
 # Urban Crime Patterns Mapping
 
 ## Overview
+
 This project aims to map urban crime patterns using advanced clustering techniques and graph database technology. By leveraging DBSCAN clustering, Hierarchical Clustering, and Neo4j Aura as the graph database platform, the project delves into the spatial and temporal dynamics of criminal activities within urban environments.
 
 ## Requirements
+
 - **Python 3.x**
 - **Libraries:** scikit-learn, numpy, py2neo, pandas, matplotlib, seaborn, folium
 
 ## Installation
+
 1. Install Python 3.x from [python.org](https://www.python.org/downloads/).
 2. Install required libraries using pip:
-```bash
-pip install scikit-learn numpy py2neo pandas matplotlib seaborn folium
-
-
+```pip install scikit-learn```
+```pip install numpy```
+```pip install py2neo```
+```pip install folium```
+```pip install pandas```
+```pip install matplotlib```
+```pip install seaborn```
 
 ## Usage
 
@@ -40,7 +46,6 @@ pip install scikit-learn numpy py2neo pandas matplotlib seaborn folium
 - [Aditya Sanap](https://github.com/AdityaSanap1821)
 - [Sahil Samant](https://github.com/sahilsamant01)
 - [Sharandeep Singh Rajpal](https://github.com/DemonKing680)
-- [Rahil Shaikh](https://github.com/alicejohnson)
 
 
 ## Contributing
