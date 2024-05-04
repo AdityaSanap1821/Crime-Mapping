@@ -11,8 +11,9 @@ This project aims to map urban crime patterns using advanced clustering techniqu
 1. Install Python 3.x from [python.org](https://www.python.org/downloads/).
 2. Install required libraries using pip:
 ```bash
-   pip install scikit-learn numpy py2neo pandas matplotlib seaborn folium
-```bash
+pip install scikit-learn numpy py2neo pandas matplotlib seaborn folium
+
+
 
 ## Usage
 
