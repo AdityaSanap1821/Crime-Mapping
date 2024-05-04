@@ -12,6 +12,7 @@ This project aims to map urban crime patterns using advanced clustering techniqu
 2. Install required libraries using pip:
 ```bash
    pip install scikit-learn numpy py2neo pandas matplotlib seaborn folium
+```bash
 
 ## Usage
 
