@@ -24,18 +24,21 @@ This project aims to map urban crime patterns using advanced clustering techniqu
 ## Usage
 
 ### Obtaining Neo4j AuraDB Credentials
+
 1. **Sign up for an account:** Create an account on [Neo4j Aura](https://neo4j.com/cloud/aura/).
 2. **Create AuraDB instance:** Set up a new AuraDB instance and note down the connection URL provided.
 3. **Retrieve credentials:** Obtain the authentication credentials from Neo4j Aura.
 4. **Update credentials:** Update the Neo4j database credentials in the source code (`crime_analysis.ipynb`) with the obtained credentials.
 
 ### Running the Script
+
 1. **Clone the repository:** Clone the repository to your local machine.
 2. **Configure Neo4j Aura:** Ensure Neo4j Aura is set up and accessible.
 3. **Update credentials:** Update the Neo4j database credentials in the source code (`crime_analysis.ipynb`).
 4. **Execute the script:** Run the Python script `crime_analysis.ipynb`.
 
 ## Functionality
+
 1. **Data Retrieval:** Retrieve crime data from Neo4j AuraDB using a predefined Cypher query.
 2. **DBSCAN Clustering:** Identify spatial clusters of crime incidents using DBSCAN clustering.
 3. **Hierarchical Clustering:** Explore relationships between crime rates and socio-economic factors using Hierarchical Clustering.
@@ -43,13 +46,16 @@ This project aims to map urban crime patterns using advanced clustering techniqu
 5. **Visualization:** Visualize crime clusters on a scatter plot and an interactive map.
 
 ## Contributors
+
 - [Aditya Sanap](https://github.com/AdityaSanap1821)
 - [Sahil Samant](https://github.com/sahilsamant01)
 - [Sharandeep Singh Rajpal](https://github.com/DemonKing680)
-
+- [Rahil Shaikh](https://github.com/Rahil0296)
 
 ## Contributing
+
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
